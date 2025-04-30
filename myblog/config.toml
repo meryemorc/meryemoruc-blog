@@ -1,20 +1,49 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "Meryem Oruç'un Blogu"
+title = "Meryem Oruç"
 theme = "terminal-hugo-theme"
 
 [params]
-  themeColor = "green"         # blue, red, orange gibi renkler de deneyebilirsin
   centerTheme = true
+  themeColor = "blue"
   showMenu = true
+  fullWidthTheme = false
+  showLanguageSwitcher = false
+  description = "Junior developer exploring DevOps and building meaningful things."
+
+  [[params.social]]
+    name = "GitHub"
+    icon = "github"
+    url = "https://github.com/meryemorc"
+
+  [[params.social]]
+    name = "LinkedIn"
+    icon = "linkedin"
+    url = "https://linkedin.com/in/meryemoruc"
+ 
+
+  [[params.social]]
+    name = "Medium"
+    icon = "medium"
+    url = "https://medium.com/@meryyemoruc.c"
+
+  [[params.social]]
+    name = "Gmail"
+    icon = "email"
+    url = "mailto:meryyemoruc.c@gmail.com"
 
 [menu]
   [[menu.main]]
-    name = "Anasayfa"
-    url = "/"
+    name = "About"
+    url = "/about/"
     weight = 1
 
   [[menu.main]]
-    name = "Hakkımda"
-    url = "/about/"
+    name = "Projects"
+    url = "/projects/"
     weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
