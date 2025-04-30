@@ -1,0 +1,20 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Meryem Oruç'un Blogu"
+theme = "terminal-hugo-theme"
+
+[params]
+  themeColor = "green"         # blue, red, orange gibi renkler de deneyebilirsin
+  centerTheme = true
+  showMenu = true
+
+[menu]
+  [[menu.main]]
+    name = "Anasayfa"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Hakkımda"
+    url = "/about/"
+    weight = 2
