@@ -1,5 +1,5 @@
 ---
-title: ""
+
 date: 2025-05-01
 draft: false
 layout: projectspage

@@ -1,10 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Meryem Oruç</title><link>http://localhost:1313/</link><description>Recent content in Home on Meryem Oruç</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>DevOps: Not Just a Process, But a Culture</title><link>http://localhost:1313/posts/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/</guid><description>&lt;blockquote>
-&lt;p>📌 Originally published on Medium: &lt;a href="https://medium.com/@firatieee/devops-nedir-3b5eba73d345">DevOps Nedir?&lt;/a>&lt;/p>&lt;/blockquote>
-&lt;hr>
-&lt;h2 id="sadece-bir-süreç-değil-bir-kültür">Sadece Bir Süreç Değil, Bir Kültür&lt;/h2>
-&lt;p>“DevOps insanları, süreçleri ve ürünleri birleştirerek son kullanıcılarımıza sürekli değer teslimini mümkün kılan bir yaklaşımdır.” – &lt;strong>Donovan Brown&lt;/strong>&lt;/p>
-&lt;p>Günümüz yazılım dünyasında hız tek başına yeterli değildir; önemli olan son kullanıcıya kesintisiz ve sürekli bir değer sunabilmektir. DevOps yalnızca geliştirme ve operasyon süreçlerini hızlandıran bir yaklaşım değil, aynı zamanda yazılımın her aşamasında değer üretmeyi amaçlayan bir kültürdür.&lt;/p>
-&lt;p>&amp;hellip;&lt;/p></description></item><item><title>🙋‍♂️ About Me</title><link>http://localhost:1313/about.html</link><pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate><guid>http://localhost:1313/about.html</guid><description>&lt;h2 id="hello-im-your-name-">Hello, I&amp;rsquo;m [Your Name] 👋&lt;/h2>
-&lt;p>I am a passionate and creative software engineer with a strong background in developing innovative software solutions. My journey in the world of technology began at a young age when I discovered my love for coding. Since then, I have honed my skills and expertise to become a proficient developer.&lt;/p>
-&lt;h2 id="my-expertise">My Expertise&lt;/h2>
-&lt;p>I specialize in building robust and scalable web applications using modern technologies such as JavaScript, React, and Node.js. I have experience working with both front-end and back-end technologies, allowing me to develop full-stack solutions that meet the needs of my clients.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Meryem Oruç</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Meryem Oruç</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps: Not Just a Process, But a Culture</title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;📌 Originally published on Medium: &lt;a href=&#34;https://medium.com/@firatieee/devops-nedir-3b5eba73d345&#34;&gt;DevOps Nedir?&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sadece-bir-süreç-değil-bir-kültür&#34;&gt;Sadece Bir Süreç Değil, Bir Kültür&lt;/h2&gt;&#xA;&lt;p&gt;“DevOps insanları, süreçleri ve ürünleri birleştirerek son kullanıcılarımıza sürekli değer teslimini mümkün kılan bir yaklaşımdır.” – &lt;strong&gt;Donovan Brown&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Günümüz yazılım dünyasında hız tek başına yeterli değildir; önemli olan son kullanıcıya kesintisiz ve sürekli bir değer sunabilmektir. DevOps yalnızca geliştirme ve operasyon süreçlerini hızlandıran bir yaklaşım değil, aynı zamanda yazılımın her aşamasında değer üretmeyi amaçlayan bir kültürdür.&lt;/p&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🙋‍♂️ About Me</title>
+      <link>http://localhost:1313/about.html</link>
+      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about.html</guid>
+      <description>&lt;h2 id=&#34;hello-im-your-name-&#34;&gt;Hello, I&amp;rsquo;m [Your Name] 👋&lt;/h2&gt;&#xA;&lt;p&gt;I am a passionate and creative software engineer with a strong background in developing innovative software solutions. My journey in the world of technology began at a young age when I discovered my love for coding. Since then, I have honed my skills and expertise to become a proficient developer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-expertise&#34;&gt;My Expertise&lt;/h2&gt;&#xA;&lt;p&gt;I specialize in building robust and scalable web applications using modern technologies such as JavaScript, React, and Node.js. I have experience working with both front-end and back-end technologies, allowing me to develop full-stack solutions that meet the needs of my clients.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

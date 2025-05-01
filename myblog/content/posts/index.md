@@ -1,5 +1,5 @@
 ---
-title: "DevOps: Not Just a Process, But a Culture"
+
 date: 2025-05-01
 draft: false
 layout: blogpage
@@ -8,7 +8,7 @@ layout: blogpage
 > 📌 Originally published on Medium: [DevOps Nedir?](https://medium.com/@firatieee/devops-nedir-3b5eba73d345)
 
 ---
-## Sadece Bir Süreç Değil, Bir Kültür
+## DevOps: Not Just a Process, But a Culture
 
 “DevOps insanları, süreçleri ve ürünleri birleştirerek son kullanıcılarımıza sürekli değer teslimini mümkün kılan bir yaklaşımdır.” – **Donovan Brown**
 
