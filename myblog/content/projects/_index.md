@@ -1,13 +1,10 @@
 ---
-title: "Projects"
+title: ""
 date: 2025-05-01
 draft: false
+layout: projectspage
 ---
 
-# Meryem Oruç  
-**Junior Software Engineer**
-
----
 
 ### 🧩 Centralized Summer School Platform (Web & Mobile)
 
@@ -33,7 +30,7 @@ This project provided hands-on experience in cloud infrastructure and DevOps wor
 
 ---
 
-### 🧩 E-Commerce Platform (Python, Django, MongoDB)
+### 🧩 E-Commerce Platform 
 
 Developed a full-featured e-commerce platform using Python and Django, with MongoDB as the primary database.  
 Includes advanced product filtering, dynamic cart functionality, and integration with Django’s user model.  
@@ -43,7 +40,7 @@ Strengthened backend and NoSQL data management skills.
 
 ---
 
-### 🧩 Task Management and Business Tracking System (C#, ASP.NET, DevExpress, MSSQL)
+### 🧩 Task Management and Business Tracking System 
 
 Developed a system with modules for employees, managers, and companies.  
 Windows Forms apps (DevExpress) for employee/manager, and ASP.NET web app for company management.  

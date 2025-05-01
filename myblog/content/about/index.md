@@ -1,16 +1,11 @@
 ---
-title: "About"
+title: ""
 date: 2025-05-01
 draft: false
 layout: aboutpage
 ---
 
----
-# Meryem Oruç  
-**Junior Software Engineer**
----
-
-# 👋 About Me
+## 👋 About Me
 
 I'm a junior software engineer with experience in both **web** and **mobile** development.
 

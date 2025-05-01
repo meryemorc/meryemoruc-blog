@@ -1,0 +1,3 @@
+const blockcodes=document.querySelectorAll(".chroma code[data-lang]");for(const t of blockcodes){const n=t.parentElement,s=t.innerText.split(`
+`).filter(Boolean).join(`
+`),e=document.createElement("div"),o=t.dataset.lang;if(e.classList.add("code-title"),e.innerText=o,navigator.clipboard!==void 0){const t=document.createElement("button");t.classList.add("copy-button"),t.innerText="Copy",t.addEventListener("click",()=>{t.innerText="Copied",setTimeout(()=>{t.innerText="Copy"},1e3),navigator.clipboard.writeText(s)}),e.append(t)}n.closest(".highlight").prepend(e)}

@@ -1,14 +1,12 @@
-<footer class="footer">
+<footer class="footer mt-16 text-center text-sm text-gray-400">
   <div class="footer__inner">
-    {{ if $.Site.Copyright }}
-      <div class="copyright copyright--user">
-        <span>{{ $.Site.Copyright | safeHTML }}</span>
-    {{ else }}
-      <div class="copyright">
-        <span>© {{ now.Year }} Powered by <a href="https://gohugo.io">Hugo</a></span>
-    {{ end }}
-      <span>:: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
-      </div>
+    <div class="copyright">
+      <span>© {{ now.Year }} Meryem Oruç. All rights reserved.</span><br />
+      <span>
+        Theme: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank" class="hover:underline">Terminal</a> by 
+        <a href="https://github.com/panr" target="_blank" class="hover:underline">panr</a>
+      </span>
+    </div>
   </div>
 </footer>
 
@@ -19,5 +17,5 @@
 
 <script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
 
-<!-- Extended footer section-->
+<!-- Genişletilmiş alt bilgi -->
 {{ partial "extended_footer.html" . }}
