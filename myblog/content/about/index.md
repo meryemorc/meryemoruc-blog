@@ -3,6 +3,9 @@ title: "About"
 date: 2025-05-01
 draft: false
 ---
+# Meryem Oruç  
+**Junior Software Engineer**
+---
 
 # 👋 About Me
 

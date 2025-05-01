@@ -4,50 +4,50 @@ date: 2025-05-01
 draft: false
 ---
 
-## 🚀 Projects
+# Meryem Oruç  
+**Junior Software Engineer**
 
 ---
 
-### 🧩 **Centralized Summer School Platform (Web & Mobile)**  
-**Tech Stack:** ASP.NET Core, PostgreSQL, React, React Native, AWS, Docker, Pandas, Scikit-learn
+### 🧩 Centralized Summer School Platform (Web & Mobile)
 
-A unified platform for browsing and filtering summer school courses from multiple universities.  
-Includes a course equivalence module and AI-based city analysis for better academic decisions.
+Developed a centralized platform that aggregates summer school courses from various universities, enabling students to search and filter courses efficiently through a single system.  
+The platform includes a course equivalence module and AI-powered city analysis for better decision-making.  
+Built with ASP.NET Core, PostgreSQL, React (Web), React Native (Mobile), and deployed on AWS with Docker.  
+Machine learning models were developed with Pandas and Scikit-learn.
 
 🔗 [GitHub Repo](https://github.com/meryemorc/YazOkuluProject.git)  
-🛠 **Status:** In development
+🛠 Status: In development
 
 ---
 
-### 🧩 **Personal Portfolio Blog Site (DevOps-Focused)**  
-**Tech Stack:** Terraform, Ansible, GitHub Actions, Hugo
+### 🧩 Personal Portfolio Blog Site (DevOps-Driven Deployment)
 
-Deployed a personal blog site on AWS using Infrastructure as Code (IaC) principles.  
-Used Hugo with a minimalist theme to present projects and writing.
+Provisioned and configured an AWS VPS using Terraform and Ansible, with GitHub Actions for CI/CD.  
+Built the blog using Hugo and deployed it with a minimalist theme to showcase my work.  
+This project provided hands-on experience in cloud infrastructure and DevOps workflows.
 
-🔗 [Infrastructure Repo](https://github.com/meryemorc/infrastructure.git)  
+🔗 [Infrastructure (IaC)](https://github.com/meryemorc/infrastructure.git)  
 🔗 [Static Site Repo](https://github.com/meryemorc/meryemoruc-blog.git)  
-🛠 **Status:** In development
+🛠 Status: In development
 
 ---
 
-### 🧩 **E-Commerce Platform (Python, Django, MongoDB)**  
-**Tech Stack:** Python, Django, MongoDB
+### 🧩 E-Commerce Platform (Python, Django, MongoDB)
 
-Built a shopping platform with advanced product filters and a dynamic cart.  
-The system is integrated with Django’s user model and supports seamless UX for buyers.
+Developed a full-featured e-commerce platform using Python and Django, with MongoDB as the primary database.  
+Includes advanced product filtering, dynamic cart functionality, and integration with Django’s user model.  
+Strengthened backend and NoSQL data management skills.
 
 🔗 [GitHub Repo](https://github.com/meryemorc/demiMarkt.git)
 
 ---
 
-### 🧩 **Task Management and Business Tracking System**  
-**Tech Stack:** C#, ASP.NET, DevExpress, MSSQL
+### 🧩 Task Management and Business Tracking System (C#, ASP.NET, DevExpress, MSSQL)
 
-Windows Forms apps for employee/manager roles and a web admin panel for company oversight.  
-Role-based authorization and task tracking with detailed reporting.
+Developed a system with modules for employees, managers, and companies.  
+Windows Forms apps (DevExpress) for employee/manager, and ASP.NET web app for company management.  
+Used MSSQL for task tracking, with role-based access and secure authentication.
 
-🔗 [Desktop App](https://github.com/meryemorc/is_takip_proje.git)  
-🔗 [Web Panel](https://github.com/meryemorc/MvcFirmaCagri2.git)
-
----
+🔗 [Desktop App Repo](https://github.com/meryemorc/is_takip_proje.git)  
+🔗 [Web Panel Repo](https://github.com/meryemorc/MvcFirmaCagri2.git)

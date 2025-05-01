@@ -3,6 +3,8 @@ title: "DevOps: Not Just a Process, But a Culture"
 date: 2025-05-01
 draft: false
 ---
+# Meryem Oruç  
+**Junior Software Engineer**
 
 > 📌 Originally published on Medium: [DevOps Nedir?](https://medium.com/@firatieee/devops-nedir-3b5eba73d345)
 
