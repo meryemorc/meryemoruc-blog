@@ -6,7 +6,21 @@
     <description>Recent content on Meryem Oruç</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;-about-me&#34;&gt;👋 About Me&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a junior software engineer with experience in both &lt;strong&gt;web&lt;/strong&gt; and &lt;strong&gt;mobile&lt;/strong&gt; development.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I&amp;rsquo;m diving into the world of &lt;strong&gt;DevOps&lt;/strong&gt; — focusing on &lt;strong&gt;cloud infrastructure&lt;/strong&gt;, &lt;strong&gt;automation tools&lt;/strong&gt;, and &lt;strong&gt;CI/CD&lt;/strong&gt; pipelines. I enjoy understanding how systems work behind the scenes and love learning through hands-on projects.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fırat University&lt;/strong&gt;&lt;br&gt;&#xA;📍 Elazığ, Türkiye&lt;br&gt;&#xA;📅 2022 - 2026 (expected)&lt;br&gt;&#xA;🎓 BSc in Software Engineering&lt;br&gt;&#xA;📊 GPA: 2.90&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-internship&#34;&gt;💼 Internship&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Software Engineering Intern @ Etiya&lt;/strong&gt;&lt;br&gt;&#xA;📍 İstanbul&lt;br&gt;&#xA;📅 July 2024 – August 2024&lt;br&gt;&#xA;💻 Contributed to Agile projects as part of the Solution Explorer team.&lt;br&gt;&#xA;Participated in sprint planning, collaborated in problem-solving, and gained real-world experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevOps: Not Just a Process, But a Culture</title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;📌 Originally published on Medium: &lt;a href=&#34;https://medium.com/@firatieee/devops-nedir-3b5eba73d345&#34;&gt;DevOps Nedir?&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;sadece-bir-süreç-değil-bir-kültür&#34;&gt;Sadece Bir Süreç Değil, Bir Kültür&lt;/h2&gt;&#xA;&lt;p&gt;“DevOps insanları, süreçleri ve ürünleri birleştirerek son kullanıcılarımıza sürekli değer teslimini mümkün kılan bir yaklaşımdır.” – &lt;strong&gt;Donovan Brown&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Günümüz yazılım dünyasında hız tek başına yeterli değildir; önemli olan son kullanıcıya kesintisiz ve sürekli bir değer sunabilmektir. DevOps yalnızca geliştirme ve operasyon süreçlerini hızlandıran bir yaklaşım değil, aynı zamanda yazılımın her aşamasında değer üretmeyi amaçlayan bir kültürdür.&lt;/p&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
