@@ -2,6 +2,9 @@
 title: "About"
 date: 2025-05-01
 draft: false
+layout: aboutpage
+---
+
 ---
 # Meryem Oruç  
 **Junior Software Engineer**
@@ -27,8 +30,8 @@ Currently I'm diving into the world of **DevOps** — focusing on **cloud infras
 
 ## 💼 Internship
 
-**Software Engineering Intern @ Etiya**  
-📍 İstanbul  
+**Software Engineering Intern**  
+🏢 Etiya  📍 İstanbul  
 📅 July 2024 – August 2024  
 💻 Contributed to Agile projects as part of the Solution Explorer team.  
 Participated in sprint planning, collaborated in problem-solving, and gained real-world experience.
